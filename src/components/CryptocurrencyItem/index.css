@@ -1,0 +1,29 @@
+.list-currency-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.text {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.currency-logo-container {
+  display: flex;
+  margin: 8px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.country-currency-container {
+  display: flex;
+  margin: 8px;
+}
+.currency {
+  margin-left: 10px;
+}
+.logo {
+  height: 35px;
+  width: 35px;
+}
